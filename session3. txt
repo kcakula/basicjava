@@ -1,0 +1,2 @@
+First type git status, then git add *, then git status again, then git commit -m "some thing written", then
+git push. And then your done. 
